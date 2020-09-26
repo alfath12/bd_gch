@@ -1,0 +1,1991 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        
+        "appid": "pub-123456789",
+        "admobappid": "ca-app-pub-123456789~5433000015",
+        "interid": "ca-app-pub-123456789/2806836672",
+        "nativeid": "ca-app-pub-123456789/1493755002",
+        
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "0",
+        
+        "interval": 6,
+        "inter_splash":"1",
+        "pengaturan_iklan":"3",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        
+        "startaap":"206991732"
+        
+      
+       
+
+        }
+    ],
+
+"More":
+  [ 
+  {
+    "id":1,
+    "judul":"Sticker WA BT21",
+    "image":"https://lh3.googleusercontent.com/1STzyDVv1J8EJan-7M1wT2BeKagRdUut2EPVaDy7qXtAQpCzLjfyOUOG8Z7_eT8WmG0=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.BuildDev.bt21stickerwastickerapps"
+  },
+  {
+    "id":2,
+    "judul":"Cute Cuby Wallpapers",
+    "image":"https://lh3.googleusercontent.com/PEL0nqCuiKl4vAxdnMp-LbpnsOwxnNTZm_SAcbBHMJbtebbRx6nRptvkwbGj6NUqwQ=s180",
+    "link":"https://play.google.com/store/apps/details?id=builddev.cutequbywallpapers.cutepentolwallpapershd"
+  },
+  {
+    "id":3,
+    "judul":"Cute BT21 Wallpapers",
+    "image":"https://lh3.googleusercontent.com/iwqXrSifGR0qNLwMYrTJOfQyOrVAUpYW39O1KXrV1nqvU51jD-jrlFaDjBVY6kCuAig=s180",
+    "link":"https://play.google.com/store/apps/details?id=builddev.cutewallpapers.cutebt21wallpaperlockscreen"
+  },
+  {
+    "id":4,
+    "judul":"Cute Kawaii Bunny",
+    "image":"https://lh3.googleusercontent.com/sEUeSc5ln1Yf3sCeuRP48BB-C8OaHPPp_Xqw7YmjRvE4PGJOxtN7yeDYxoPZXjQ2eg=s180",
+    "link":"https://play.google.com/store/apps/details?id=builddev.cutewallpapers.cutekawaiibunnywallpaperlockscreen"
+  },
+  {
+    "id":5,
+    "judul":"Stiker Cowok Keren",
+    "image":"https://lh3.googleusercontent.com/AbkrITeUAhu8BRgiUygGvK3T-WX1paHuz0UJj0bcZc3845H01YdBr3mTPoWHmGD5HEc=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.BuildDev.StikerCowokKerenUntukWhatsAppWAStickerApps"
+  },
+  {
+    "id":6,
+    "judul":"Kumpulan Sticker Keren",
+    "image":"https://lh3.googleusercontent.com/HvQLjWkodmfMauy0kGt7OKrelGbUb--XeAdarMDQtfHOStt4UUXrmCzqlO4Q_laB0wE=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.BuildDev.KumpulanStickerKerenForWAStickerApps"
+  },
+  {
+    "id":7,
+    "judul":"3D Stiker Cewek Cantik",
+    "image":"https://lh3.googleusercontent.com/N9I2gfWoZDTs12XqAfS1QaoT-ZOeWB5ijAsObFgmj6GSvqJgxsGv22Ot3cGTctBFUyWe=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.BuildDev.Stiker3DCewekCantikLucuWAStickerApps"
+  }
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Gacha Wallpapers 1",
+      "gambar": "https://i.postimg.cc/cHmsJhLN/Seamless1.png"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "Gacha Wallpapers 2",
+      "gambar": "https://i.postimg.cc/PrcdNPTN/Seamless10.png"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "Gacha Wallpapers 3",
+      "gambar": "https://i.postimg.cc/0NGvtnmJ/Seamless11.png"
+    
+    },
+	{
+      "id": 4,
+      "nama_cat": "Gacha Wallpapers 4",
+      "gambar": "https://i.postimg.cc/qqqdvdF8/Seamless12.png"
+     
+    },
+	{
+      "id": 5,
+      "nama_cat": "Gacha Wallpapers 5",
+      "gambar": "https://i.postimg.cc/9fHVtK4h/Seamless13.png"
+     
+    },
+	{
+      "id": 6,
+      "nama_cat": "Gacha Wallpapers 6",
+      "gambar": "https://i.postimg.cc/59KVk6Hp/Seamless14.png"
+     
+    },
+	{
+      "id": 7,
+      "nama_cat": "Gacha Wallpapers 7",
+      "gambar": "https://i.postimg.cc/8PFS8NMG/Seamless15.png"
+     
+    },
+    {
+      "id": 8,
+      "nama_cat": "Gacha Wallpapers 8",
+      "gambar": "https://i.postimg.cc/TPxMWbS2/Seamless16.png"
+    
+    },
+    {
+      "id": 9,
+      "nama_cat": "Gacha Wallpapers 9",
+      "gambar": "https://i.postimg.cc/wvxCwpgS/Seamless17.png"
+    
+    },
+	{
+      "id": 10,
+      "nama_cat": "Gacha Wallpapers 10",
+      "gambar": "https://i.postimg.cc/gJMf5T0r/Seamless18.png"
+     
+    },
+	{
+      "id": 11,
+      "nama_cat": "Gacha Wallpapers 11",
+      "gambar": "https://i.postimg.cc/DwL3Z6xY/Seamless19.png"
+     
+    },
+	{
+      "id": 12,
+      "nama_cat": "Gacha Wallpapers 12",
+      "gambar": "https://i.postimg.cc/BZp6ZSj1/Seamless2.png"
+     
+    },
+	{
+      "id": 13,
+      "nama_cat": "Gacha Wallpapers 13",
+      "gambar": "https://i.postimg.cc/sD22vkWH/Seamless3.png"
+     
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/cHmsJhLN/Seamless1.png"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/PrcdNPTN/Seamless10.png"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/0NGvtnmJ/Seamless11.png"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/qqqdvdF8/Seamless12.png"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/9fHVtK4h/Seamless13.png"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/59KVk6Hp/Seamless14.png"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/8PFS8NMG/Seamless15.png"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/TPxMWbS2/Seamless16.png"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/wvxCwpgS/Seamless17.png"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/gJMf5T0r/Seamless18.png"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/DwL3Z6xY/Seamless19.png"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/BZp6ZSj1/Seamless2.png"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/sD22vkWH/Seamless3.png"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/Jnmrmvmq/Seamless4.png"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/bw7YVdB4/Seamless5.png"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/gJNWp0gz/Seamless6.png"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/L6hHHzdr/Seamless7.png"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/3xvYGYx1/Seamless8.png"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://i.postimg.cc/1t9QbFc7/Seamless9.png"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 1",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddF8j2.jpg"
+    },
+	{
+      "id":21,
+      "id_wall":"021",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFvTl.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"022",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFep4.jpg"
+    },
+      {
+      "id":23,
+      "id_wall":"023",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFOvf.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"024",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFSQS.jpg"
+    },
+      {
+      "id":25,
+      "id_wall":"025",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFgC7.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"026",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFrG9.jpg"
+    },
+	{
+      "id":27,
+      "id_wall":"027",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddF44e.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"028",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFP3u.jpg"
+    },
+      {
+      "id":29,
+      "id_wall":"029",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFiYb.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"030",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFsvj.jpg"
+    },
+      {
+      "id":31,
+      "id_wall":"031",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFLyx.jpg"
+    },
+    {
+      "id":32,
+      "id_wall":"032",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFZTQ.jpg"
+    },
+	{
+      "id":33,
+      "id_wall":"033",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFtjV.jpg"
+    },
+    {
+      "id":34,
+      "id_wall":"034",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFDZB.jpg"
+    },
+      {
+      "id":35,
+      "id_wall":"035",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFmCP.jpg"
+    },
+    {
+      "id":36,
+      "id_wall":"036",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFpG1.jpg"
+    },
+      {
+      "id":37,
+      "id_wall":"037",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddFy6F.jpg"
+    },
+    {
+      "id":38,
+      "id_wall":"038",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKJaa.jpg"
+    },
+	{
+      "id":39,
+      "id_wall":"039",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKH3g.jpg"
+    },
+    {
+      "id":40,
+      "id_wall":"040",
+      "nama_cat": "Gacha Wallpapers 2",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKd8J.jpg"
+    },
+	{
+      "id":41,
+      "id_wall":"041",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddK2yv.jpg"
+    },
+    {
+      "id":42,
+      "id_wall":"042",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKFuR.jpg"
+    },
+      {
+      "id":43,
+      "id_wall":"043",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKKjp.jpg"
+    },
+    {
+      "id":44,
+      "id_wall":"044",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKfZN.jpg"
+    },
+      {
+      "id":45,
+      "id_wall":"045",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKBnI.jpg"
+    },
+    {
+      "id":46,
+      "id_wall":"046",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKn6X.jpg"
+    },
+	{
+      "id":47,
+      "id_wall":"047",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKCGt.jpg"
+    },
+    {
+      "id":48,
+      "id_wall":"048",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKxFn.jpg"
+    },
+      {
+      "id":49,
+      "id_wall":"049",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKzas.jpg"
+    },
+    {
+      "id":50,
+      "id_wall":"050",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKI8G.jpg"
+    },
+      {
+      "id":51,
+      "id_wall":"051",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKu9f.jpg"
+    },
+    {
+      "id":52,
+      "id_wall":"052",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKAu4.jpg"
+    },
+	{
+      "id":53,
+      "id_wall":"053",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKRwl.jpg"
+    },
+    {
+      "id":54,
+      "id_wall":"054",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddK5t2.jpg"
+    },
+      {
+      "id":55,
+      "id_wall":"055",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKYnS.jpg"
+    },
+    {
+      "id":56,
+      "id_wall":"056",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKaM7.jpg"
+    },
+      {
+      "id":57,
+      "id_wall":"057",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKcP9.jpg"
+    },
+    {
+      "id":58,
+      "id_wall":"058",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddK0Fe.jpg"
+    },
+	{
+      "id":59,
+      "id_wall":"059",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddK1cu.jpg"
+    },
+    {
+      "id":60,
+      "id_wall":"060",
+      "nama_cat": "Gacha Wallpapers 3",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKE8b.jpg"
+    },
+	{
+      "id":61,
+      "id_wall":"061",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKM9j.jpg"
+    },
+    {
+      "id":62,
+      "id_wall":"062",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKVAx.jpg"
+    },
+      {
+      "id":63,
+      "id_wall":"063",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKWwQ.jpg"
+    },
+    {
+      "id":64,
+      "id_wall":"064",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKXtV.jpg"
+    },
+      {
+      "id":65,
+      "id_wall":"065",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKjoB.jpg"
+    },
+    {
+      "id":66,
+      "id_wall":"066",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKwMP.jpg"
+    },
+	{
+      "id":67,
+      "id_wall":"067",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKNP1.jpg"
+    },
+    {
+      "id":68,
+      "id_wall":"068",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKeKF.jpg"
+    },
+      {
+      "id":69,
+      "id_wall":"069",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKkcg.jpg"
+    },
+    {
+      "id":70,
+      "id_wall":"070",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKvSa.jpg"
+    },
+      {
+      "id":71,
+      "id_wall":"071",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKSHJ.jpg"
+    },
+    {
+      "id":72,
+      "id_wall":"072",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKUAv.jpg"
+    },
+	{
+      "id":73,
+      "id_wall":"073",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKgNR.jpg"
+    },
+    {
+      "id":74,
+      "id_wall":"074",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKrtp.jpg"
+    },
+      {
+      "id":75,
+      "id_wall":"075",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddK6oN.jpg"
+    },
+    {
+      "id":76,
+      "id_wall":"076",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKPVI.jpg"
+    },
+      {
+      "id":77,
+      "id_wall":"077",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKiPt.jpg"
+    },
+    {
+      "id":78,
+      "id_wall":"078",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKLKX.jpg"
+    },
+	{
+      "id":79,
+      "id_wall":"079",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKQln.jpg"
+    },
+    {
+      "id":80,
+      "id_wall":"080",
+      "nama_cat": "Gacha Wallpapers 4",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKZSs.jpg"
+    },
+	{
+      "id":81,
+      "id_wall":"081",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKDHG.jpg"
+    },
+    {
+      "id":82,
+      "id_wall":"082",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKmN4.jpg"
+    },
+      {
+      "id":83,
+      "id_wall":"083",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKbRf.jpg"
+    },
+    {
+      "id":84,
+      "id_wall":"084",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddKpDl.jpg"
+    },
+      {
+      "id":85,
+      "id_wall":"085",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf9x2.jpg"
+    },
+    {
+      "id":86,
+      "id_wall":"086",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfHVS.jpg"
+    },
+	{
+      "id":87,
+      "id_wall":"087",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfJi7.jpg"
+    },
+    {
+      "id":88,
+      "id_wall":"088",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf2f9.jpg"
+    },
+      {
+      "id":89,
+      "id_wall":"089",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf3le.jpg"
+    },
+    {
+      "id":90,
+      "id_wall":"090",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfFUu.jpg"
+    },
+      {
+      "id":91,
+      "id_wall":"091",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddffHb.jpg"
+    },
+    {
+      "id":92,
+      "id_wall":"092",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfqRj.jpg"
+    },
+	{
+      "id":93,
+      "id_wall":"093",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfBOx.jpg"
+    },
+    {
+      "id":94,
+      "id_wall":"094",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfCDQ.jpg"
+    },
+      {
+      "id":95,
+      "id_wall":"095",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfoxV.jpg"
+    },
+    {
+      "id":96,
+      "id_wall":"096",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfxWB.jpg"
+    },
+      {
+      "id":97,
+      "id_wall":"097",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfziP.jpg"
+    },
+    {
+      "id":98,
+      "id_wall":"098",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfTf1.jpg"
+    },
+	{
+      "id":99,
+      "id_wall":"099",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfu0F.jpg"
+    },
+    {
+      "id":100,
+      "id_wall":"100",
+      "nama_cat": "Gacha Wallpapers 5",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfAUg.jpg"
+    },
+	{
+      "id":101,
+      "id_wall":"101",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf5Ja.jpg"
+    },
+    {
+      "id":102,
+      "id_wall":"102",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf75J.jpg"
+    },
+      {
+      "id":103,
+      "id_wall":"103",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfYOv.jpg"
+    },
+    {
+      "id":104,
+      "id_wall":"104",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfabR.jpg"
+    },
+      {
+      "id":105,
+      "id_wall":"105",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddflxp.jpg"
+    },
+    {
+      "id":106,
+      "id_wall":"106",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf0WN.jpg"
+    },
+	{
+      "id":107,
+      "id_wall":"107",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf1sI.jpg"
+    },
+    {
+      "id":108,
+      "id_wall":"108",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfGft.jpg"
+    },
+      {
+      "id":109,
+      "id_wall":"109",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfM0X.jpg"
+    },
+    {
+      "id":110,
+      "id_wall":"110",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfVgn.jpg"
+    },
+      {
+      "id":111,
+      "id_wall":"111",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfXJs.jpg"
+    },
+    {
+      "id":112,
+      "id_wall":"112",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfh5G.jpg"
+    },
+	{
+      "id":113,
+      "id_wall":"113",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfjef.jpg"
+    },
+    {
+      "id":114,
+      "id_wall":"114",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfwb4.jpg"
+    },
+      {
+      "id":115,
+      "id_wall":"115",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfOzl.jpg"
+    },
+    {
+      "id":116,
+      "id_wall":"116",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfeX2.jpg"
+    },
+      {
+      "id":117,
+      "id_wall":"117",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfksS.jpg"
+    },
+    {
+      "id":118,
+      "id_wall":"118",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf8q7.jpg"
+    },
+	{
+      "id":119,
+      "id_wall":"119",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfS19.jpg"
+    },
+    {
+      "id":120,
+      "id_wall":"120",
+      "nama_cat": "Gacha Wallpapers 6",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfUge.jpg"
+    },
+	{
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfrdu.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf45b.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddf6ej.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfPmx.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfszQ.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfLXV.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfQLB.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddftqP.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfD11.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfbrF.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfpdg.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddfy7a.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq9kJ.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqHmv.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqdIR.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq2Xp.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq3LN.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqKBI.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqf1t.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 7",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqqrX.jpg"
+    },
+	{
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqC2n.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqn7s.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqokG.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqxpf.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqII4.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqThl.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddquQ2.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqRBS.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq5E7.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq749.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq749.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqa2e.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqcYu.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqlkb.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq0pj.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqETx.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqGhQ.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqMQV.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqWCB.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 8",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqXEP.jpg"
+    },
+	{
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqh41.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqw3F.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqNYg.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqOva.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqeyJ.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqvTv.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq8jR.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqSQp.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqgCN.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqrGI.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddq44t.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqP3X.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqian.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqsvs.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqLyG.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqZuf.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqtj4.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqDZl.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqmn2.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 9",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqpGS.jpg"
+    },
+	{
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddqy67.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBHF9.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBJae.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBd8u.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddB2yb.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBFuj.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBKwx.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBfZQ.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBBnV.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBCMB.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBn6P.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBxF1.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBzcF.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBI8g.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBu9a.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBAAJ.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBRwv.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddB5tR.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBYnp.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 10",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBaMN.jpg"
+    },
+	{
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBcPI.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddB0Ft.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddB1cX.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBESn.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBM9s.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBVAG.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBWNf.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBXt4.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBjol.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBwV2.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBNPS.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBeK7.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBkl9.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBvSe.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBSHu.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBUAb.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBgNj.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBrDx.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddB6oQ.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 11",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBPVV.jpg"
+    },
+	{
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBiiB.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBLKP.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBQl1.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBZUF.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBDHg.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBbRa.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBmOJ.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddBpDv.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddC9xR.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCHVp.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCJiN.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddC2fI.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddC3lt.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCFUX.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCfJn.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCqRs.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCBOG.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCCbf.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCox4.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 12",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCxWl.jpg"
+    },
+	{
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCzs2.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCTfS.jpg"
+    },
+      {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCu07.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCAg9.jpg"
+    },
+      {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddC5Je.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddC75u.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCYOb.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCabj.jpg"
+    },
+      {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddClzx.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddC0WQ.jpg"
+    },
+      {
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddC1sV.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCGqB.jpg"
+    },
+	{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCM0P.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCVg1.jpg"
+    },
+      {
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCXdF.jpg"
+    },
+    {
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCh5g.jpg"
+    },
+      {
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCjea.jpg"
+    },
+    {
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCwmJ.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCOzv.jpg"
+    },
+    {
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "Gacha Wallpapers 13",
+      "judul":"Gacha Pic",
+      "image":"https://iili.io/ddCeXR.jpg"
+    }
+
+  ]
+}
